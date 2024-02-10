@@ -6,7 +6,7 @@
 [![macOs build](https://github.com/pgmodeler/pgmodeler/workflows/macOs%20build/badge.svg)](https://github.com/pgmodeler/pgmodeler/actions?query=workflow%3A%22macOs+build%22)
 
 :rocket: What's pgModeler?
-------------
+-------------
 
 An **open-source, multiplatform database modeler for PostgreSQL**. This project aims to be a reference database design tool when it comes to FOSS in the PostgreSQL ecosystem.
 Its feature-rich interface allows quick data modeling and fast code deployment on a server. It also supports reverse engineering by creating a visual representation of existing databases. Besides, pgModeler can also generate SQL scripts to sync a model and a database through the process called diff.
